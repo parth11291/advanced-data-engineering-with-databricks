@@ -1,3 +1,4 @@
+
 # Advanced Data Engineering with Databricks
 This repository contains the resources students need to follow along with the instructor teaching this course, in addition to the various labs and their solutions.
 
